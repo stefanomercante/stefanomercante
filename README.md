@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Ciao a tutti!
+Mi chiamo Stefano e sono sviluppatore di applicazioni web.
+
+Mi occupo di sviluppare web application e personalizzazioni di WordPress.
+
+Sviluppo utilizzando il linguaggio PHP e il framework Laravel.
+Ho esperienza su WordPress: sviluppo temi e plugin personalizzati.
+Realizzo personalizzazioni per WooCommerce.
+
+Ho buone competenze nello sviluppo frontend e negli aspetti legati alla User Experience.  
+
+Possiedo una buona preparazione anche su tematiche SEO.
