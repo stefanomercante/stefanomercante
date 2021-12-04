@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **stefanomercante/stefanomercante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Ciao a tutti!
+### Ciao a tutti! 👋
 Mi chiamo Stefano e sono sviluppatore di applicazioni web.
 
 Mi occupo di sviluppare web application e personalizzazioni di WordPress.
