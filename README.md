@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Stefano Mercante: profilo
 
-Mi occupo di sviluppare **web application** in **linguaggio PHP** e con framework **Laravel**.
+Sviluppo **web application** in **linguaggio PHP** e con framework **Laravel**.
 
 Ho esperienza su **WordPress**: sviluppo **temi e plugin personalizzati**.
 
