@@ -28,4 +28,4 @@ Ho buone competenze nello **sviluppo frontend** e negli aspetti legati alla User
 
 Possiedo una buona preparazione anche su tematiche **SEO**.
 
-(Uf08c) [profilo Linkedin](linkedin.com/in/mercante-stefano-26052820)
+[Profilo Linkedin](linkedin.com/in/mercante-stefano-26052820)
