@@ -25,5 +25,5 @@ Realizzo **personalizzazioni per WooCommerce**.
 Ho buone competenze nello **sviluppo frontend** e negli aspetti legati alla User Experience.  
 
 Possiedo una buona preparazione anche su tematiche **SEO**.
-
+#
 <img alt="stefano mercante - profilo linkedin" src="./linkedin.svg"> [Profilo Linkedin](https://www.linkedin.com/in/mercante-stefano-26052820)
