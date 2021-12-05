@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Benvenuti nel mio profilo! 👋
+# Stefano Mercante - profilo
 
 Mi occupo di sviluppare **web application** e **personalizzazioni di WordPress**.
 
