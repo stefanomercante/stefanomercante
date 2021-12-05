@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Stefano Mercante - profilo
+# Stefano Mercante: profilo
 
 Mi occupo di sviluppare **web application** in **linguaggio PHP** e con framework **Laravel**.
 
