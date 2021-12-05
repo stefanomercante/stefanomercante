@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 # Ciao a tutti! 👋
-Mi chiamo Stefano e sono sviluppatore di applicazioni web.
+Sono sviluppatore di applicazioni web.
 
 Mi occupo di sviluppare web application e personalizzazioni di WordPress.
 
