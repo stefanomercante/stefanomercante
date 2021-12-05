@@ -14,15 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Ciao a tutti! 👋
-Sono sviluppatore di applicazioni web.
+# Benvenuti nel mio profilo! 👋
 
-Mi occupo di sviluppare web application e personalizzazioni di WordPress.
+Mi occupo di sviluppare **web application** e **personalizzazioni di WordPress**.
 
-Sviluppo utilizzando il linguaggio PHP e il framework Laravel.
-Ho esperienza su WordPress: sviluppo temi e plugin personalizzati.
+Sviluppo utilizzando il **linguaggio PHP** e il framework **Laravel**.
+Ho esperienza su WordPress: sviluppo **temi e plugin personalizzati**.
 Realizzo personalizzazioni per WooCommerce.
 
-Ho buone competenze nello sviluppo frontend e negli aspetti legati alla User Experience.  
+Ho buone competenze nello **sviluppo frontend** e negli aspetti legati alla User Experience.  
 
-Possiedo una buona preparazione anche su tematiche SEO.
+Possiedo una buona preparazione anche su tematiche **SEO**.
