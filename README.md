@@ -16,13 +16,11 @@ Here are some ideas to get you started:
 
 # Stefano Mercante - profilo
 
-Mi occupo di sviluppare **web application** e **personalizzazioni di WordPress**.
+Mi occupo di sviluppare **web application** in **linguaggio PHP** e con framework **Laravel**.
 
-Sviluppo utilizzando il **linguaggio PHP** e il framework **Laravel**.
+Ho esperienza su **WordPress**: sviluppo **temi e plugin personalizzati**.
 
-Ho esperienza su WordPress: sviluppo **temi e plugin personalizzati**.
-
-Realizzo personalizzazioni per WooCommerce.
+Realizzo **personalizzazioni per WooCommerce**.
 
 Ho buone competenze nello **sviluppo frontend** e negli aspetti legati alla User Experience.  
 
