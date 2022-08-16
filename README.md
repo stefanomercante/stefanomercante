@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - Esperienza con CMS **WordPress**: sviluppo **temi e plugin personalizzati**.
 - Realizzazione **personalizzazioni per WooCommerce**.
 - Buone competenze nello **sviluppo frontend** e negli aspetti legati alla User Experience.  
-- Buona preparazione anche su tematiche **SEO**.
+- Ottimizzazioni siti web e tecniche **SEO**.
