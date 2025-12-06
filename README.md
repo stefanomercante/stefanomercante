@@ -1,29 +1,58 @@
+👋 Ciao! Sono Stefano Mercante
+Full-Stack PHP Developer con una forte passione per la programmazione e lo sviluppo di soluzioni web personalizzate.
 
-<!--
-**stefanomercante/stefanomercante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ho maturato una pluriennale esperienza nel settore, lavorando in software house, aziende di prodotto, web agency e aziende di consulenza.
 
-Here are some ideas to get you started:
+💼 Cosa faccio
+Mi specializzo nello sviluppo di architetture backend scalabili e sistemi distribuiti, con focus su:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 API RESTful
 
-# Stefano Mercante
-## Web Developer
-Sviluppo utilizzando il **linguaggio PHP**, ho esperienza su **WordPress** (realizzazione di  temi, plugin e personalizzazioni di WooCommerce) e su framework **Laravel**. Ho buone competenze nello sviluppo del frontend e nei principali aspetti di User Experience. Uso indifferentemente sistemi Windows e sistemi Linux. Generalmente lavoro utilizzando Git.
+⚡ Elaborazione asincrona tramite code (Redis, RabbitMQ)
 
-Ho una buona preparazione su **tematiche SEO**, configurazione di tracciamenti, eventi e obiettivi con GA4, configurazione e utilizzo di TagManager e SearchConsole. Pongo particolare attenzione alle **performance dei progetti** e mi piace curare il codice che scrivo. Recentemente ho iniziato ad esplorare il mondo delle applicazioni multi device e cross platform con Google Flutter. Inoltre sto approfondendo **Javascript** e le sue applicazioni nelle PWA.
+🐳 Containerizzazione Docker
 
-Mi reputo una persona attiva, curiosa e propositiva. Mi piace il lavoro di squadra e mi piace avere un confronto con i colleghi. Cerco di tenermi in costante aggiornamento seguendo corsi e se possibile partecipando a eventi.
+🚀 Sistemi ad alta affidabilità con performance ottimizzate
 
-- Sviluppo di **applicazioni web** in **linguaggio PHP** e con framework **Laravel**.
-- Esperienza con CMS **WordPress**: sviluppo **temi e plugin personalizzati**.
-- Realizzazione **personalizzazioni per WooCommerce**.
-- Buone competenze nello **sviluppo frontend** e negli aspetti legati alla User Experience.  
-- Ottimizzazioni siti web e tecniche **SEO**.
+📈 Gestione di carichi significativi in produzione
+
+Mi piace aiutare i clienti a trasformare le loro idee in realtà digitali, offrendo soluzioni su misura che soddisfano le loro esigenze specifiche.
+
+Credo molto nello sviluppo tecnologico a supporto del business nel contesto di una solida strategia SEO per migliorare la visibilità online.
+
+🛠️ Le mie competenze
+
+Negli anni ho imparato a "mettere le mani un po' ovunque".
+
+Ho maturato competenze sia nel front-end che nel back-end dello sviluppo web, lavorando con tecnologie come:
+
+**Tech Stack**
+
+- ackend: PHP, Laravel, Node.js
+- Frontend: JavaScript, Vue.js, HTML5, CSS3, Bootstrap, Sass
+- Database: SQL, MySQL
+- CMS & E-commerce: WordPress, WooCommerce
+- PIM: PIMCore
+- DevOps: Docker, Linux Bash Shell
+- Ottimizzazione: SEO
+- Tools: jQuery, XML
+  
+Sono esperto nell'utilizzo di CMS come WordPress, piattaforme di e-commerce come WooCommerce e sistemi PIM come PIMCore. Perché il dato giusto, nel posto giusto, al momento giusto, fa la differenza tra un prodotto che si vende e uno che rimane invisibile.
+
+**Soft Skills**
+
+🧩 Problem solving
+
+👥 Team working
+
+⏱️ Time management
+
+🔄 Adaptability
+
+💡 Creatività
+
+
+<!--📫 Contatti
+🌐 Website: stefano-mercante.com
+📧 Email: info@stefano-mercante.com
+💼 LinkedIn: Stefano Mercante -->
