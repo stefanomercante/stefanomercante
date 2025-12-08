@@ -3,7 +3,8 @@ Full-Stack PHP Developer con una forte passione per la programmazione e lo svilu
 
 Ho maturato una pluriennale esperienza nel settore, lavorando in software house, aziende di prodotto, web agency e aziende di consulenza.
 
-💼 Cosa faccio
+💼 **Cosa faccio**
+
 Mi specializzo nello sviluppo di architetture backend scalabili e sistemi distribuiti, con focus su:
 
 🔧 API RESTful
@@ -20,7 +21,7 @@ Mi piace aiutare i clienti a trasformare le loro idee in realtà digitali, offre
 
 Credo molto nello sviluppo tecnologico a supporto del business nel contesto di una solida strategia SEO per migliorare la visibilità online.
 
-🛠️ Le mie competenze
+🛠️ **Le mie competenze**
 
 Negli anni ho imparato a "mettere le mani un po' ovunque".
 
@@ -28,7 +29,7 @@ Ho maturato competenze sia nel front-end che nel back-end dello sviluppo web, la
 
 **Tech Stack**
 
-- ackend: PHP, Laravel, Node.js
+- Backend: PHP, Laravel, Node.js
 - Frontend: JavaScript, Vue.js, HTML5, CSS3, Bootstrap, Sass
 - Database: SQL, MySQL
 - CMS & E-commerce: WordPress, WooCommerce
