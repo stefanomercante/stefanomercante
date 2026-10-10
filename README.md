@@ -1,59 +1,69 @@
-👋 Ciao! Sono Stefano Mercante
-Full-Stack PHP Developer con una forte passione per la programmazione e lo sviluppo di soluzioni web personalizzate.
+# 👋 Ciao, sono Stefano Mercante!
 
-Ho maturato una pluriennale esperienza nel settore, lavorando in software house, aziende di prodotto, web agency e aziende di consulenza.
+### **Full-Stack PHP Developer Senior** specializzato in architetture backend scalabili, sistemi distribuiti ad alte prestazioni e integrazione di soluzioni e-commerce/PIM.
 
-💼 **Cosa faccio**
+Con anni di esperienza trascorsi tra software house, agenzie e consulenza, aiuto le aziende a trasformare idee complesse in prodotti digitali solidi, veloci e orientati al business. 
 
-Mi specializzo nello sviluppo di architetture backend scalabili e sistemi distribuiti, con focus su:
+---
 
-🔧 API RESTful
+## 💼 Cosa Faccio & Impatto Strategico
 
-⚡ Elaborazione asincrona tramite code (Redis, RabbitMQ)
+Non mi limito a scrivere codice: progetto sistemi capaci di reggere il traffico e generare valore.
 
-🐳 Containerizzazione Docker
+*   **Backend Scalabile & Sistemi Distribuiti:** Progettazione di API RESTful robuste e ottimizzazione delle performance per la gestione di carichi significativi in produzione.
+*   **Elaborazione Asincrona:** Gestione di flussi di dati complessi e code ad alta velocità tramite **Redis** e **RabbitMQ**.
+*   **DevOps & Cloud:** Standardizzazione degli ambienti di sviluppo e produzione attraverso la containerizzazione con **Docker**.
+*   **Business & SEO:** Sviluppo di codice ottimizzato per i motori di ricerca, perché un'architettura perfetta deve anche essere visibile sul mercato.
 
-🚀 Sistemi ad alta affidabilità con performance ottimizzate
+> *"Il dato giusto, nel posto giusto, al momento giusto, fa la differenza tra un prodotto che vende e uno che rimane invisibile."*
 
-📈 Gestione di carichi significativi in produzione
+---
 
-Mi piace aiutare i clienti a trasformare le loro idee in realtà digitali, offrendo soluzioni su misura che soddisfano le loro esigenze specifiche.
+## 🛠️ Il Mio Tech Stack
 
-Credo molto nello sviluppo tecnologico a supporto del business nel contesto di una solida strategia SEO per migliorare la visibilità online.
+### 🖥️ Backend & Core
+![PHP](https://shields.io)
+![Laravel](https://shields.io)
+![NodeJS](https://shields.io)
 
-🛠️ **Le mie competenze**
+### 🎨 Frontend
+![JavaScript](https://shields.io)
+![Vue.js](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![SASS](https://shields.io)
+![Bootstrap](https://shields.io)
 
-Negli anni ho imparato a "mettere le mani un po' ovunque".
+### 💾 Data, CMS & PIM
+![MySQL](https://shields.io)
+![Redis](https://shields.io)
+![WordPress](https://shields.io)
+![WooCommerce](https://shields.io)
+*   **PIM:** Pimcore
 
-Ho maturato competenze sia nel front-end che nel back-end dello sviluppo web, lavorando con tecnologie come:
+### ⚙️ DevOps & Tools
+![Docker](https://shields.io)
+![RabbitMQ](https://shields.io)
+![Linux](https://shields.io)
+*   **Altro:** Bash Scripting, REST APIs, XML, SEO Technical Optimization
 
-**Tech Stack**
+---
 
-- Backend: PHP, Laravel, Node.js
-- Frontend: JavaScript, Vue.js, HTML5, CSS3, Bootstrap, Sass
-- Database: SQL, MySQL
-- CMS & E-commerce: WordPress, WooCommerce
-- PIM: PIMCore
-- DevOps: Docker, Linux Bash Shell
-- Ottimizzazione: SEO
-- Tools: jQuery, XML
-  
-Sono esperto nell'utilizzo di CMS come WordPress, piattaforme di e-commerce come WooCommerce e sistemi PIM come PIMCore. Perché il dato giusto, nel posto giusto, al momento giusto, fa la differenza tra un prodotto che si vende e uno che rimane invisibile.
+## 🧩 Soft Skills
 
-**Soft Skills**
+*   **Problem Solving & Debugging** sotto pressione.
+*   **Team Working** e comunicazione fluida tra reparti tecnici e di business.
+*   **Time Management** orientato al rispetto delle milestone di progetto.
+*   **Adaptability** verso nuovi framework e metodologie di sviluppo.
 
-🧩 Problem solving
+---
 
-👥 Team working
+## 📬 Parliamo del tuo prossimo progetto?
 
-⏱️ Time management
+Sia che tu voglia ottimizzare una piattaforma esistente o sviluppare un'architettura da zero, sentiti libero di contattarmi:
 
-🔄 Adaptability
+🌐 **Sito Web:** [stefano-mercante.com](https://stefano-mercante.com)  
+📧 **Email:** [info@stefano-mercante.com](mailto:info@stefano-mercante.com)  
+💼 **LinkedIn:** [Stefano Mercante](https://linkedin.com) *(Assicurati che lo slug del tuo link sia corretto)*
 
-💡 Creatività
-
-
-<!--📫 Contatti
-🌐 Website: stefano-mercante.com
-📧 Email: info@stefano-mercante.com
-💼 LinkedIn: Stefano Mercante -->
+***
