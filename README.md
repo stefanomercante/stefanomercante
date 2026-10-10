@@ -21,31 +21,10 @@ Non mi limito a scrivere codice: progetto sistemi capaci di reggere il traffico 
 
 ## 🛠️ Il Mio Tech Stack
 
-### 🖥️ Backend & Core
-![PHP](https://shields.io)
-![Laravel](https://shields.io)
-![NodeJS](https://shields.io)
-
-### 🎨 Frontend
-![JavaScript](https://shields.io)
-![Vue.js](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![SASS](https://shields.io)
-![Bootstrap](https://shields.io)
-
-### 💾 Data, CMS & PIM
-![MySQL](https://shields.io)
-![Redis](https://shields.io)
-![WordPress](https://shields.io)
-![WooCommerce](https://shields.io)
-*   **PIM:** Pimcore
-
-### ⚙️ DevOps & Tools
-![Docker](https://shields.io)
-![RabbitMQ](https://shields.io)
-![Linux](https://shields.io)
-*   **Altro:** Bash Scripting, REST APIs, XML, SEO Technical Optimization
+*   🖥️ **Backend & Core:** PHP | Laravel | Node.js
+*   🎨 **Frontend:** JavaScript | Vue.js | HTML5 | CSS3 | SASS | Bootstrap
+*   💾 **Data, CMS & PIM:** MySQL | Redis | WordPress | WooCommerce | Pimcore
+*   ⚙️ **DevOps & Tools:** Docker | RabbitMQ | Linux Bash Shell | REST APIs | XML | Technical SEO
 
 ---
 
@@ -64,6 +43,6 @@ Sia che tu voglia ottimizzare una piattaforma esistente o sviluppare un'architet
 
 🌐 **Sito Web:** [stefano-mercante.com](https://stefano-mercante.com)  
 📧 **Email:** [info@stefano-mercante.com](mailto:info@stefano-mercante.com)  
-💼 **LinkedIn:** [Stefano Mercante](https://linkedin.com) *(Assicurati che lo slug del tuo link sia corretto)*
+💼 **LinkedIn:** [Stefano Mercante](https://linkedin.com)
 
 ***
