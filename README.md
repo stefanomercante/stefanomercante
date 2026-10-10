@@ -13,9 +13,9 @@ Non mi limito a scrivere codice: progetto sistemi capaci di reggere il traffico 
 *   **Backend Scalabile & Sistemi Distribuiti:** Progettazione di API RESTful robuste e ottimizzazione delle performance per la gestione di carichi significativi in produzione.
 *   **Elaborazione Asincrona:** Gestione di flussi di dati complessi e code ad alta velocità tramite **Redis** e **RabbitMQ**.
 *   **DevOps & Cloud:** Standardizzazione degli ambienti di sviluppo e produzione attraverso la containerizzazione con **Docker**.
+*   **Agile & Delivery:** Organizzazione del lavoro secondo il framework Scrum per garantire rilasci incrementali, trasparenti e continui.
 *   **Business & SEO:** Sviluppo di codice ottimizzato per i motori di ricerca, perché un'architettura perfetta deve anche essere visibile sul mercato.
 
-> *"Il dato giusto, nel posto giusto, al momento giusto, fa la differenza tra un prodotto che vende e uno che rimane invisibile."*
 
 ---
 
