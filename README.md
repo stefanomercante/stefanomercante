@@ -1,8 +1,8 @@
 # 👋 Ciao, sono Stefano Mercante!
 
-### **Full-Stack PHP Developer Senior** specializzato in architetture backend scalabili, sistemi distribuiti ad alte prestazioni e integrazione di soluzioni e-commerce/PIM.
+### **Full-Stack PHP Developer Senior & Professional Scrum Master (PSM I)** specializzato in architetture backend scalabili, sistemi distribuiti ad alte prestazioni e gestione di progetti in ambienti Agile.
 
-Con anni di esperienza trascorsi tra software house, agenzie e consulenza, aiuto le aziende a trasformare idee complesse in prodotti digitali solidi, veloci e orientati al business. 
+Con anni di esperienza trascorsi tra software house, agenzie e consulenza, aiuto le aziende a trasformare idee complesse in prodotti digitali solidi, veloci e orientati al business, ottimizzando i processi di sviluppo. 
 
 ---
 
